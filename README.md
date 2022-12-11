@@ -34,8 +34,4 @@
 |:---:|:---:|:---:|
 |**See Issued Books Page**|**User Reissue Book Page**|**New Book Added Notification**|
 
-|<img src=Screenshots/Deadline_Approaching_Notification.png width="267">|<img src=Screenshots/Fine_Increased_Notification.png width="267">|
-|:---:|:---:|
-|**Deadline Approaching Notification**|**Fine Increased Notification**|
-
 
